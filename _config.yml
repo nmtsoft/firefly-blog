@@ -99,11 +99,11 @@ theme: firefly
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: 'git'
-  repository:
-    coding: 'git@github.com:AlMiraiABC/firefly-blog.git'
-  branch: 'master'
+# deploy:
+#   type: 'git'
+#   repository:
+#     coding: 'git@github.com:nmtsoft/firefly-blog.git'
+#   branch: 'master'
 
 # local search
 search:
