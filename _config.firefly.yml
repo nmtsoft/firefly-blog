@@ -35,7 +35,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: View on github
-      link: https://github.com/AlMiraiABC/hexo-theme-firefly
+      link: https://github.com/nmtsoft/hexo-theme-firefly
 
 footer:
   owner:
