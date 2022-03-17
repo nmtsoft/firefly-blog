@@ -6,11 +6,13 @@ cover: false
 categories: []
 date: 2022-03-14 19:33:49
 updated: 2022-03-14 19:33:49
-tags:
+tags: tutorial
 ---
-## 配置文件
+## 用途
 
-配置文件包含`weather`选项，可网站导航栏(navbar)显示天气预报插件。其基本配置如下：
+可网站导航栏(navbar)显示天气预报插件。其基本配置如下：
+
+## 配置
 
 ```yml
 weather:

@@ -105,14 +105,6 @@ deploy:
     coding: 'git@github.com:AlMiraiABC/firefly-blog.git'
   branch: 'master'
 
-# algolia
-# see https://github.com/oncletom/hexo-algolia
-# algolia:
-#   applicationID:
-#   apiKey:
-#   indexName:
-#   chunkSize: 5000
-
 # local search
 search:
   path: search.xml

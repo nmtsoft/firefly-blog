@@ -2,7 +2,8 @@ menu:
   存档: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
-  友联: /link/ || fas fa-link
+  版本: /publish/ || fas fa-timeline
+  友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
 
 theme_color:
@@ -35,3 +36,19 @@ aside:
       icon: fab fa-github
       text: View on github
       link: https://github.com/AlMiraiABC/hexo-theme-firefly
+
+footer:
+  owner:
+    enable: true
+    since: 2022
+  custom_text:
+  upyun: true
+  icp:
+    enable: true
+    text: 冀ICP备18006888号-2
+    url: https://beian.miit.gov.cn/
+    icon: /img/icp.png
+  copyright: true
+
+local_search:
+  enable: true
