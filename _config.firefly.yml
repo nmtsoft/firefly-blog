@@ -50,5 +50,9 @@ footer:
     icon: /img/icp.png
   copyright: true
 
-local_search:
-  enable: true
+search:
+  use: local
+  algolia:
+    hits:
+      per_page: 6
+  local:
