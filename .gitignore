@@ -6,4 +6,4 @@ node_modules/
 public/
 .deploy*/
 .npmrc
-.yarn.lock
+yarn.lock
